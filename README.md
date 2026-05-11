@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is JP and I'm a developer, from bogo city.</p>
+<p align="left">My name is JP and I'm a developer, from cebu city.</p>
 
 ###
 
